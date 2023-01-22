@@ -1,6 +1,8 @@
 # login2xplore-project
 mini project assigned at the time of internship
 
+Website-https://kunal5163.github.io/login2xplore-project/
+
 # Project Management Form
 
 It is a Project Management Form that stores the user's data in JSONPowerDB. It supports REST APIs and serverless technology. Project can be added, updated based on their project id. In this form, the project id is automatically checked and by the help of API, the data entered into other input fields so that the user can update accordingly. The application uses AJAX requests for smooth and fast interaction. All kinds of data can be stored, such as numbers, strings, dates, etc.
