@@ -1,4 +1,4 @@
-# login2explore-project
+# login2xplore-project
 mini project assigned at the time of internship
 
 # Project Management Form
